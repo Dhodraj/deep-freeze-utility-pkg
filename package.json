@@ -4,6 +4,14 @@
   "description": "Utility to deeply freeze objects, including nested structures",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Dhodraj/deep-freeze-utility-pkg.git"
+  },
+  "homepage": "https://github.com/Dhodraj/deep-freeze-utility-pkg#readme",
+  "bugs": {
+    "url": "https://github.com/Dhodraj/deep-freeze-utility-pkg/issues"
+  },
   "scripts": {
     "build": "tsc",
     "test": "jest",
