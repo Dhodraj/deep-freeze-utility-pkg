@@ -1,6 +1,6 @@
 {
   "name": "deep-freeze-utility",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Utility to deeply freeze objects, including nested structures",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",

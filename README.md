@@ -5,13 +5,13 @@ A lightweight TypeScript utility for deeply freezing nested objects and arrays.
 ## Installation
 
 ```bash
-npm install deep-freeze-util
+npm install deep-freeze-utility
 ```
 
 ## Usage
 
 ```typescript
-import { deepFreeze } from 'deep-freeze-util';
+import { deepFreeze } from 'deep-freeze-utility';
 
 const obj = {
   name: 'Example',
